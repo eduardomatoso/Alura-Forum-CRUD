@@ -1,1 +1,1 @@
-projeto de uma API RESTful Spring com o site Alura
+projeto de uma API RESTFul para um Forum feito com Spring framework
